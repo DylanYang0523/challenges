@@ -1,6 +1,4 @@
 /**
- * https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/
- * 1296. Divide Array in Sets of K Consecutive Numbers
  * @param {number[]} nums
  * @param {number} k
  * @return {boolean}
@@ -75,5 +73,47 @@ var isPossibleDivide = function(nums, k) {
         return isValid;
     }
     
-    return solutionB();
+    const solutionC = () => {
+        const len = nums.length;
+        if (len % k !== 0) return false;
+        
+        const m = new Map();
+        for (let i = 0; i < len; i++) {
+            const current = m.get(nums[i]);
+            if (current === undefined) {
+                m.set(nums[i], 1);
+            } else {
+                m.set(nums[i], current + 1);
+            }
+        }
+        
+        const mAsc = new Map([...m.entries()].sort((a, b) => (a[0] - b[0])));
+        let isValid = true;
+        
+        label:
+        for (let [key, val] of mAsc) {
+          while (val > 0) {
+                for (let i = 0; i < k; i++) {
+                    const targetKey = key + i;
+                    const targetVal = mAsc.get(targetKey);
+                    if (!targetVal) {
+                        isValid = false;
+                        break label;
+                    }
+                    
+                    const newVal = targetVal - 1
+                    if (!newVal) {
+                        mAsc.delete(targetKey);
+                    } else {
+                        mAsc.set(targetKey, newVal);   
+                    }
+                }
+                val -= 1;
+            }
+        }
+        
+        return isValid;
+    }
+    
+    return solutionC();
 };
