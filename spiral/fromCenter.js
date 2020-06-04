@@ -1,3 +1,14 @@
+// https://www.hackerrank.com/contests/zoho-pr/challenges/spiral-traversal/problem
+/**
+ * Given a square matrix(n is odd) , print the elements in spiral order starting from the center till array[0][0]th element.
+ * 
+ * Input Format:
+ * The first line contains an integer N which represents row and column size.
+ * The next N lines contains N elements which represents the array values.
+ * 
+ * Output Format:
+ * Print the Spiral order
+ */
 function processData(input) {
     //Enter your code here
     if (!input || input.length < 1) return null;
