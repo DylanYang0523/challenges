@@ -102,9 +102,7 @@ var bstFromPreorder = function(preorder) {
             const node = new TreeNode(val, null, null);
             
             idx += 1;
-            if (val === 8) {
-                console.log('idx:', idx);
-            }
+            
             // left
             if (preorder[idx] !== undefined && 
                 preorder[idx] > min && 
@@ -112,9 +110,7 @@ var bstFromPreorder = function(preorder) {
                 preorder[idx] < val) {
                 node.left = buildTree(min, val);
             }
-            if (val === 8) {
-                console.log('idx:', idx);
-            }
+
             // right
             if (preorder[idx] !== undefined && 
                 preorder[idx] > min && 
