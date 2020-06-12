@@ -55,13 +55,7 @@ var getIntersectionNode = function(headA, headB) {
             if (pointerB.next) {
                 pointerB = pointerB.next;
             } else {
-                if (pointerA.next) {
-                    pointerB = headA;
-                } else {
-                    pointerA = pointerA.next;
-                    pointerA = pointerB.next;
-                    break;
-                }
+                pointerB = headA;
             }
         }
         
