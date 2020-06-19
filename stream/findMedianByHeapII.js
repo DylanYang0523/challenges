@@ -1,4 +1,5 @@
-// https://leetcode.com/problems/find-median-from-data-stream/submissions/
+// https://leetcode.com/problems/find-median-from-data-stream/
+// 295. Find Median from Data Stream
 class Heap {
     constructor () {
         this.heap = [];
@@ -26,7 +27,7 @@ class Heap {
         } else if (i === 1) {
             return 0;
         } else {
-            return Math.floor((i - 2) / 2);
+            return Math.round((i - 2) / 2);
         }
     }
     
@@ -42,9 +43,7 @@ class Heap {
         const last = this.getLen() - 1;
         this.swap(last, 0);
         const root = this.heap.pop();
-        for (let i = this.getLen() - 1; i >= 0; i--) {
-            this.heapify(i);   
-        }
+        this.heapify(0);   
         return root;
     }
 }
