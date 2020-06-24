@@ -1,6 +1,10 @@
 /**
- * https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/
- * 106. Construct Binary Tree from Inorder and Postorder Traversal
+ * @lv 🟡
+ * @link https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/
+ * @name 106. Construct Binary Tree from Inorder and Postorder Traversal
+ * @cate #tree, #node, #recursion
+ */
+/**
  * Definition for a binary tree node.
  * function TreeNode(val, left, right) {
  *     this.val = (val===undefined ? 0 : val)

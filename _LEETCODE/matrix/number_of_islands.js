@@ -2,7 +2,7 @@
  * @lv 🟡
  * @link https://leetcode.com/problems/number-of-islands/
  * @name 200. Number of Islands
- * @cate #recursion, #array
+ * @cate #recursion, #array, #editor_pick
  */
 /**
  * @param {character[][]} grid

@@ -1,5 +1,10 @@
 /**
- * https://leetcode.com/problems/minimum-depth-of-binary-tree/
+ * @lv 🟢
+ * @link https://leetcode.com/problems/minimum-depth-of-binary-tree/
+ * @name 111. Minimum Depth of Binary Tree
+ * @cate #node, #queue
+ */
+/**
  * Definition for a binary tree node.
  * function TreeNode(val, left, right) {
  *     this.val = (val===undefined ? 0 : val)

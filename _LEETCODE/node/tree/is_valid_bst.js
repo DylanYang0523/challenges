@@ -1,4 +1,10 @@
 /**
+ * @lv 🟡
+ * @link https://leetcode.com/problems/validate-binary-search-tree/
+ * @name 98. Validate Binary Search Tree
+ * @cate #recursion, #node, #tree, #editor_pick
+ */
+/**
  * Definition for a binary tree node.
  * function TreeNode(val, left, right) {
  *     this.val = (val===undefined ? 0 : val)

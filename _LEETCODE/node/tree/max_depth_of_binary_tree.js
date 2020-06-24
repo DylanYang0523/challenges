@@ -1,5 +1,10 @@
 /**
- * https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/
+ * @lv 🟢
+ * @link https://leetcode.com/problems/maximum-depth-of-binary-tree/
+ * @name 104. Maximum Depth of Binary Tree
+ * @cate #node, #tree, #recursion
+ */
+/**
  * Definition for a binary tree node.
  * function TreeNode(val, left, right) {
  *     this.val = (val===undefined ? 0 : val)

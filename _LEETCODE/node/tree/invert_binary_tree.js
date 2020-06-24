@@ -1,4 +1,10 @@
 /**
+ * @lv 🟢
+ * @link https://leetcode.com/problems/invert-binary-tree/
+ * @name 226. Invert Binary Tree
+ * @cate #tree, recursion, #node
+ */
+/**
  * Definition for a binary tree node.
  * function TreeNode(val, left, right) {
  *     this.val = (val===undefined ? 0 : val)

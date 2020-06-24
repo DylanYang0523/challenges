@@ -1,6 +1,10 @@
 /**
- * https://leetcode.com/problems/word-search/submissions/
- * 79. Word Search
+ * @lv 🟡
+ * @link https://leetcode.com/problems/word-search/
+ * @name 79. Word Search
+ * @cate #editor_pick
+ */
+/**
  * @param {character[][]} board
  * @param {string} word
  * @return {boolean}

@@ -1,5 +1,10 @@
 /**
- * https://leetcode.com/problems/path-sum/
+ * @lv 🟢
+ * @link https://leetcode.com/problems/path-sum/
+ * @name 112. Path Sum
+ * @cate #recursion, #node, #tree
+ */
+/**
  * Definition for a binary tree node.
  * function TreeNode(val, left, right) {
  *     this.val = (val===undefined ? 0 : val)

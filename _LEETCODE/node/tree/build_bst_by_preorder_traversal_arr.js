@@ -1,6 +1,10 @@
 /**
- * https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/
- * 1008. Construct Binary Search Tree from Preorder Traversal
+ * @lv 🟡
+ * @link https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/
+ * @name 1008. Construct Binary Search Tree from Preorder Traversal
+ * @cate #tree, #node
+ */
+/**
  * Definition for a binary tree node.
  * function TreeNode(val, left, right) {
  *     this.val = (val===undefined ? 0 : val)

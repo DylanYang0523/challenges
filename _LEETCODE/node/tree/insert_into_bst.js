@@ -1,6 +1,10 @@
 /**
- * https://leetcode.com/problems/insert-into-a-binary-search-tree/
- * 701. Insert into a Binary Search Tree
+ * @lv 🟢
+ * @link https://leetcode.com/problems/insert-into-a-binary-search-tree/
+ * @name 701. Insert into a Binary Search Tree
+ * @cate #tree, #node, #recursion
+ */
+/**
  * Definition for a binary tree node.
  * function TreeNode(val, left, right) {
  *     this.val = (val===undefined ? 0 : val)

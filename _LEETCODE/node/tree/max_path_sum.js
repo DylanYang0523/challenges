@@ -1,4 +1,10 @@
 /**
+ * @lv 🔴
+ * @link https://leetcode.com/problems/binary-tree-maximum-path-sum/
+ * @name 124. Binary Tree Maximum Path Sum
+ * @cate #tree, #node, #recursion, #editor_pick
+ */
+/**
  * Definition for a binary tree node.
  * function TreeNode(val, left, right) {
  *     this.val = (val===undefined ? 0 : val)
@@ -7,8 +13,6 @@
  * }
  */
 /**
- * https://leetcode.com/problems/binary-tree-maximum-path-sum/
- * 124. Binary Tree Maximum Path Sum
  * @param {TreeNode} root
  * @return {number}
  */

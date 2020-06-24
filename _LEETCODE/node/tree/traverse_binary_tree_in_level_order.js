@@ -1,4 +1,10 @@
 /**
+ * @lv 🟢
+ * @link https://leetcode.com/problems/binary-tree-level-order-traversal/
+ * @name 102. Binary Tree Level Order Traversal
+ * @cate #queue, #node
+ */
+/**
  * Definition for a binary tree node.
  * function TreeNode(val, left, right) {
  *     this.val = (val===undefined ? 0 : val)
@@ -7,8 +13,6 @@
  * }
  */
 /**
- * https://leetcode.com/problems/binary-tree-level-order-traversal/
- * 102. Binary Tree Level Order Traversal
  * @param {TreeNode} root
  * @return {number[][]}
  */

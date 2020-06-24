@@ -1,6 +1,10 @@
 /**
- * https://leetcode.com/problems/flatten-binary-tree-to-linked-list/
- * 114. Flatten Binary Tree to Linked List
+ * @lv 🟡
+ * @link https://leetcode.com/problems/flatten-binary-tree-to-linked-list/
+ * @name 114. Flatten Binary Tree to Linked List
+ * @cate #tree, #node, #linked_list
+ */
+/**
  * Definition for a binary tree node.
  * function TreeNode(val, left, right) {
  *     this.val = (val===undefined ? 0 : val)

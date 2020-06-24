@@ -1,6 +1,10 @@
 /**
- * https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/
- * 109. Convert Sorted List to Binary Search Tree
+ * @lv 🟡
+ * @link https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/
+ * @name 109. Convert Sorted List to Binary Search Tree
+ * @cate #tree, #linked_list, #node
+ */
+/**
  * Definition for singly-linked list.
  * function ListNode(val, next) {
  *     this.val = (val===undefined ? 0 : val)

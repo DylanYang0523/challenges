@@ -2,7 +2,7 @@
  * @lv 🟡
  * @link https://www.hackerrank.com/challenges/max-array-sum/problem?isFullScreen=true
  * @name Max Array Sum
- * @cate #optimal, #states_control
+ * @cate #optimal, #states_control, #editor_pick
  */
 
 'use strict';

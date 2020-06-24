@@ -1,6 +1,10 @@
 /**
- * https://leetcode.com/problems/word-search-ii/submissions/
- * 212. Word Search II
+ * @lv 🔴
+ * @link https://leetcode.com/problems/word-search-ii/
+ * @name 212. Word Search II
+ * @cate #to_be_optimized
+ */
+/**
  * @param {character[][]} board
  * @param {string[]} words
  * @return {string[]}
