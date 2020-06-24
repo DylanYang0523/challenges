@@ -1,5 +1,11 @@
+/**
+ * @lv 🟡
+ * @link https://www.hackerrank.com/challenges/bfsshortreach/copy-from/163267505?isFullScreen=true
+ * @name Breadth First Search: Shortest Reach
+ * @cate #graph, #queue
+ */
+
 'use strict';
-// https://www.hackerrank.com/challenges/bfsshortreach/copy-from/163267505?isFullScreen=true
 
 const fs = require('fs');
 

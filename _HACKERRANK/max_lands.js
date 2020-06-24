@@ -1,5 +1,11 @@
+/**
+ * @lv 🟡
+ * @link https://www.hackerrank.com/challenges/ctci-connected-cell-in-a-grid/problem?isFullScreen=true
+ * @name DFS: Connected Cell in a Grid
+ * @cate #recursion
+ */
+
 'use strict';
-// https://www.hackerrank.com/challenges/ctci-connected-cell-in-a-grid/problem?isFullScreen=true
 
 const fs = require('fs');
 

@@ -1,4 +1,9 @@
-// https://www.hackerrank.com/challenges/ctci-bfs-shortest-reach/problem?isFullScreen=true
+/**
+ * @lv 🟡
+ * @link https://www.hackerrank.com/challenges/ctci-bfs-shortest-reach/problem?isFullScreen=true
+ * @name BFS: Shortest Reach in a Graph
+ * @cate #graph, #queue
+ */
 
 function processData(input) {
     //Enter your code here

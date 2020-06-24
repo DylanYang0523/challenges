@@ -1,6 +1,9 @@
 /**
- * https://leetcode.com/problems/maximum-subarray/
- * 53. Maximum Subarray
+ * @lv 🟢
+ * @link https://leetcode.com/problems/maximum-subarray/
+ * @name 53. Maximum Subarray 
+ */
+/**
  * @param {number[]} nums
  * @return {number}
  */

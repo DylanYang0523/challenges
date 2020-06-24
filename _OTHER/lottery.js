@@ -1,5 +1,8 @@
-function lotteryCoupons(n) {
+/**
+ * @co Mercari
+ */
 
+function lotteryCoupons(n) {
     const arr = [];
     for (let i = 1; i < n + 1; i++) {
         const a = Math.floor(i / 10000);

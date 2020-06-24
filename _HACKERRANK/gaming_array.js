@@ -1,5 +1,10 @@
+/**
+ * @lv 🟢
+ * @link https://www.hackerrank.com/challenges/an-interesting-game-1/problem?isFullScreen=true
+ * @name Gaming Array
+ */
+
 'use strict';
-// https://www.hackerrank.com/challenges/an-interesting-game-1/problem?isFullScreen=true
 
 const fs = require('fs');
 

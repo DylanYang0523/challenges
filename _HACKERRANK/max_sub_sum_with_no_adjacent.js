@@ -1,5 +1,11 @@
+/**
+ * @lv 🟡
+ * @link https://www.hackerrank.com/challenges/max-array-sum/problem?isFullScreen=true
+ * @name Max Array Sum
+ * @cate #optimal, #states_control
+ */
+
 'use strict';
-// https://www.hackerrank.com/challenges/max-array-sum/problem?isFullScreen=true
 
 const fs = require('fs');
 
