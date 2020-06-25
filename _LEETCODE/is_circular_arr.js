@@ -1,6 +1,10 @@
 /**
- * https://leetcode.com/problems/circular-array-loop/
- * 457. Circular Array Loop
+ * @lv 🟡
+ * @link https://leetcode.com/problems/circular-array-loop/
+ * @name 457. Circular Array Loop
+ * @cate #editor_pick, #memoize
+ */
+/**
  * @param {number[]} nums
  * @return {boolean}
  */

@@ -1,4 +1,10 @@
 /**
+ * @lv 🟡
+ * @link https://leetcode.com/problems/linked-list-cycle-ii/
+ * @name 142. Linked List Cycle II
+ * @cate #editor_pick, #linked_list, #node
+ */
+/**
  * Definition for singly-linked list.
  * function ListNode(val) {
  *     this.val = val;
@@ -7,8 +13,6 @@
  */
 
 /**
- * https://leetcode.com/problems/linked-list-cycle-ii/
- * 142. Linked List Cycle II
  * @param {ListNode} head
  * @return {ListNode}
  */

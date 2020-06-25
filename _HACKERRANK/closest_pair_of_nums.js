@@ -1,4 +1,8 @@
-// https://www.hackerrank.com/challenges/closest-numbers/problem?isFullScreen=true
+/**
+ * @lv 🟢
+ * @link https://www.hackerrank.com/challenges/closest-numbers/problem?isFullScreen=true
+ * @name Closest Numbers
+ */
 'use strict';
 
 const fs = require('fs');
