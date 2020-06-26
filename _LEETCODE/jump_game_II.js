@@ -1,6 +1,10 @@
 /**
- * https://leetcode.com/problems/jump-game-ii/
- * 45. Jump Game II
+ * @lv 🔴
+ * @link https://leetcode.com/problems/jump-game-ii/
+ * @name 45. Jump Game II
+ * @cate #editor_pick
+ */
+/**
  * @param {number[]} nums
  * @return {number}
  */

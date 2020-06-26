@@ -1,6 +1,10 @@
 /**
- * https://leetcode.com/problems/jump-game/submissions/
- * 55. Jump Game
+ * @lv 🟡
+ * @link https://leetcode.com/problems/jump-game/
+ * @name 55. Jump Game
+ * @cate #editor_pick
+ */
+/**
  * @param {number[]} nums
  * @return {boolean}
  */

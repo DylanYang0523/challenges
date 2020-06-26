@@ -1,6 +1,10 @@
 /**
- * https://leetcode.com/problems/coin-change/
- * 322. Coin Change
+ * @lv 🟡
+ * @link https://leetcode.com/problems/coin-change/
+ * @name 322. Coin Change
+ * @cate #memoize, #recursion, #editor_pick
+ */
+/**
  * @param {number[]} coins
  * @param {number} amount
  * @return {number}

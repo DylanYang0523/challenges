@@ -1,6 +1,10 @@
 /**
- * https://leetcode.com/problems/binary-search/
- * 704. Binary Search
+ * @lv 🟢
+ * @link https://leetcode.com/problems/binary-search/
+ * @name 704. Binary Search
+ * @cate #fundamental
+ */
+/**
  * @param {number[]} nums
  * @param {number} target
  * @return {number}

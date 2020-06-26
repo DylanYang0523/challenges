@@ -1,6 +1,10 @@
 /**
- * https://leetcode.com/problems/edit-distance/
- * 72. Edit Distance
+ * @lv 🔴
+ * @link https://leetcode.com/problems/edit-distance/
+ * @name 72. Edit Distance
+ * @cate #db_table, #editor_pick
+ */
+/**
  * @param {string} word1
  * @param {string} word2
  * @return {number}

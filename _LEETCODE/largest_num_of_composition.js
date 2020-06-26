@@ -1,6 +1,10 @@
 /**
- * https://leetcode.com/problems/largest-number/
- * 179. Largest Number
+ * @lv 🟡
+ * @link https://leetcode.com/problems/largest-number/
+ * @name 179. Largest Number
+ * @cate #editor_pick
+ */
+/**
  * @param {number[]} nums
  * @return {string}
  */

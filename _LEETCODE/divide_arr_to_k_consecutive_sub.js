@@ -1,4 +1,10 @@
 /**
+ * @lv 🟡
+ * @link https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/
+ * @name 1296. Divide Array in Sets of K Consecutive Numbers
+ * @cate #to_be_optimized
+ */
+/**
  * @param {number[]} nums
  * @param {number} k
  * @return {boolean}

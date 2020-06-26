@@ -25,4 +25,6 @@
 #&nbsp;levenshtein \
 #&nbsp;editor_pick \
 #&nbsp;to_be_optimized \
-#&nbsp;to_be_sanitized
+#&nbsp;to_be_sanitized \ 
+#&nbsp;classic \
+#&nbsp;fundamental

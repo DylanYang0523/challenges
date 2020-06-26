@@ -1,6 +1,10 @@
 /**
- * https://leetcode.com/problems/longest-common-subsequence/submissions/
- * 1143. Longest Common Subsequence
+ * @lv 🟡
+ * @link https://leetcode.com/problems/longest-common-subsequence/submissions/
+ * @name 1143. Longest Common Subsequence
+ * @cate #dp_table, #editor_pick
+ */
+/**
  * @param {string} text1
  * @param {string} text2
  * @return {number}

@@ -1,4 +1,9 @@
 /**
+ * @lv 🟢
+ * @link https://leetcode.com/problems/is-subsequence/
+ * @name Is Subsequence
+ */
+/**
  * @param {string} s
  * @param {string} t
  * @return {boolean}

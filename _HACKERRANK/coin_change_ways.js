@@ -1,5 +1,10 @@
+/**
+ * @lv 🟡
+ * @link https://www.hackerrank.com/challenges/coin-change/problem?isFullScreen=false
+ * @name The Coin Change Problem
+ * @cate #db_table, #editor_pick
+ */
 'use strict';
-// https://www.hackerrank.com/challenges/coin-change/problem?isFullScreen=true
 
 const fs = require('fs');
 

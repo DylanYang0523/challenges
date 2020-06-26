@@ -1,6 +1,10 @@
 /**
- * https://leetcode.com/problems/longest-consecutive-sequence/submissions/
- * 128. Longest Consecutive Sequence
+ * @lv 🔴
+ * @link https://leetcode.com/problems/longest-consecutive-sequence/submissions/
+ * @name 128. Longest Consecutive Sequence
+ * @cate #editor_pick, #memoize
+ */
+/**
  * @param {number[]} nums
  * @return {number}
  */

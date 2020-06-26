@@ -1,6 +1,10 @@
 /**
- * https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/submissions/
- * 188. Best Time to Buy and Sell Stock IV
+ * @lv 🔴
+ * @link https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/submissions/
+ * @name 188. Best Time to Buy and Sell Stock IV
+ * @cate #dp_table, #to_be_sanitized, #editor_pick
+ */
+/**
  * @param {number} k
  * @param {number[]} prices
  * @return {number}
