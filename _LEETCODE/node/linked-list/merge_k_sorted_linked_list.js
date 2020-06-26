@@ -1,4 +1,10 @@
 /**
+ * @lv 🟡
+ * @link https://leetcode.com/problems/merge-k-sorted-lists/
+ * @name 23. Merge k Sorted Lists
+ * @cate #node, #linked_list, #to_be_optimized
+ */
+/**
  * Definition for singly-linked list.
  * function ListNode(val, next) {
  *     this.val = (val===undefined ? 0 : val)
@@ -6,8 +12,6 @@
  * }
  */
 /**
- * https://leetcode.com/problems/merge-k-sorted-lists/
- * 23. Merge k Sorted Lists
  * @param {ListNode[]} lists
  * @return {ListNode}
  */

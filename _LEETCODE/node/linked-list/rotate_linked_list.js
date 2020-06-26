@@ -1,4 +1,10 @@
 /**
+ * @lv 🟡
+ * @link https://leetcode.com/problems/rotate-list/
+ * @name 61. Rotate List
+ * @cate #editor_pick, #linked_list, #node
+ */
+/**
  * Definition for singly-linked list.
  * function ListNode(val, next) {
  *     this.val = (val===undefined ? 0 : val)
@@ -6,8 +12,6 @@
  * }
  */
 /**
- * https://leetcode.com/problems/rotate-list/
- * 61. Rotate List
  * @param {ListNode} head
  * @param {number} k
  * @return {ListNode}

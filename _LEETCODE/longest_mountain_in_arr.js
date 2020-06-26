@@ -1,6 +1,9 @@
 /**
- * https://leetcode.com/problems/longest-mountain-in-array/
- * 845. Longest Mountain in Array
+ * @lv 🟡
+ * @link https://leetcode.com/problems/longest-mountain-in-array/
+ * @name 845. Longest Mountain in Array
+ */
+/**
  * @param {number[]} A
  * @return {number}
  */
@@ -81,5 +84,38 @@ var longestMountain = function(A) {
         return max;
     }
     
-    return solutionB();
+    const solutionC = () => {
+        const peaks = [];
+        let isAscending = false;
+        for (let i = 1; i < A.length; i++) {
+            if (isAscending && A[i] < A[i - 1]) {
+                peaks.push(i - 1);
+                isAscending = false;
+            }
+            if (A[i] > A[i - 1]) {
+                isAscending = true;
+            } else {
+                isAscending = false;
+            }
+        }
+        let max = 0;
+        while (peaks.length > 0) {
+            const curr = peaks.pop();
+            let count = 1;
+            let pointerL = curr;
+            let pointerR = curr;
+            while (pointerL > 0 && A[pointerL - 1] < A[pointerL]) {
+                count += 1;
+                pointerL -= 1;
+            }
+            while (pointerR < A.length - 1 && A[pointerR + 1] < A[pointerR]) {
+                count += 1;
+                pointerR += 1;
+            }
+            max = Math.max(count, max);
+        }
+        return max;
+    }
+    
+    return solutionC();
 };

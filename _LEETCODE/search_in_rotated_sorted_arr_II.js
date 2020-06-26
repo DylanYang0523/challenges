@@ -1,6 +1,10 @@
 /**
- * https://leetcode.com/problems/search-in-rotated-sorted-array-ii/submissions/
- * 81. Search in Rotated Sorted Array II
+ * @lv 🟡
+ * @link https://leetcode.com/problems/search-in-rotated-sorted-array-ii/submissions/
+ * @name 81. Search in Rotated Sorted Array II
+ * @cate #editor_pick
+ */
+/**
  * @param {number[]} nums
  * @param {number} target
  * @return {boolean}

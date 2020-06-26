@@ -1,4 +1,10 @@
 /**
+ * @lv 🟢
+ * @link https://leetcode.com/problems/merge-two-sorted-lists/
+ * @name 21. Merge Two Sorted Lists
+ * @cate #node, #linked_list
+ */
+/**
  * Definition for singly-linked list.
  * function ListNode(val, next) {
  *     this.val = (val===undefined ? 0 : val)
@@ -6,8 +12,6 @@
  * }
  */
 /**
- * https://leetcode.com/problems/merge-two-sorted-lists/
- * 21. Merge Two Sorted Lists
  * @param {ListNode} l1
  * @param {ListNode} l2
  * @return {ListNode}

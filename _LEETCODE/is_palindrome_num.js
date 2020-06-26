@@ -1,6 +1,9 @@
 /**
- * https://leetcode.com/problems/palindrome-number/
- * 9. Palindrome Number
+ * @lv 🟢
+ * @link https://leetcode.com/problems/palindrome-number/
+ * @name 9. Palindrome Number
+ */
+/**
  * @param {number} x
  * @return {boolean}
  */

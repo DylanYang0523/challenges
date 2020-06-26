@@ -1,6 +1,9 @@
 /**
- * https://leetcode.com/problems/valid-palindrome/
- * 125. Valid Palindrome
+ * @lv 🟢
+ * @link https://leetcode.com/problems/valid-palindrome/
+ * @name 125. Valid Palindrome
+ */
+/**
  * @param {string} s
  * @return {boolean}
  */

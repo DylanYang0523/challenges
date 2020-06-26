@@ -1,6 +1,10 @@
 /**
- * https://leetcode.com/problems/partition-to-k-equal-sum-subsets/
- * 698. Partition to K Equal Sum Subsets
+ * @lv 🔴
+ * @link https://leetcode.com/problems/partition-to-k-equal-sum-subsets/
+ * @name 698. Partition to K Equal Sum Subsets
+ * @cate #editor_pick
+ */
+/**
  * @param {number[]} nums
  * @param {number} k
  * @return {boolean}

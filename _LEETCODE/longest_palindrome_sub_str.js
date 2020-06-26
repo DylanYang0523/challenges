@@ -1,6 +1,10 @@
 /**
- * https://leetcode.com/problems/longest-palindromic-substring/
- * 5. Longest Palindromic Substring
+ * @lv 🟡
+ * @link https://leetcode.com/problems/longest-palindromic-substring/
+ * @name 5. Longest Palindromic Substring
+ * @cate #editor_pick
+ */
+/**
  * @param {string} s
  * @return {string}
  */

@@ -1,6 +1,10 @@
 /**
- * https://leetcode.com/problems/pascals-triangle/submissions/
- * 118. Pascal's Triangle
+ * @lv 🟢
+ * @link https://leetcode.com/problems/pascals-triangle/submissions/
+ * @name 118. Pascal's Triangle
+ * @cate #classic
+ */
+/**
  * @param {number} numRows
  * @return {number[][]}
  */

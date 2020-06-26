@@ -1,6 +1,10 @@
 /**
- * https://leetcode.com/problems/find-peak-element/
- * 162. Find Peak Element
+ * @lv 🟡
+ * @link https://leetcode.com/problems/find-peak-element/
+ * @name 162. Find Peak Element
+ * @cate #editor_pick
+ */
+/**
  * @param {number[]} nums
  * @return {number}
  */

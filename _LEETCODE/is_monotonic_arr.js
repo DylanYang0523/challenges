@@ -1,6 +1,9 @@
 /**
- * https://leetcode.com/problems/monotonic-array/
- * 896. Monotonic Array
+ * @lv 🟢
+ * @link https://leetcode.com/problems/monotonic-array/
+ * @name 896. Monotonic Array
+ */
+/**
  * @param {number[]} A
  * @return {boolean}
  */

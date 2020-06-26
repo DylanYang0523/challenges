@@ -1,6 +1,8 @@
-// https://leetcode.com/problems/design-linked-list/
-// 707. Design Linked List
-
+/**
+ * @lv 🟡
+ * @link https://leetcode.com/problems/design-linked-list/
+ * @name 707. Design Linked List
+ */
 class Node {
     constructor (val, next) {
         this.val = val;

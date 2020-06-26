@@ -1,4 +1,10 @@
 /**
+ * @lv 🟢
+ * @link https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
+ * @name 235. Lowest Common Ancestor of a Binary Search Tree
+ * @cate #recursion, #node, #tree
+ */
+/**
  * Definition for a binary tree node.
  * function TreeNode(val) {
  *     this.val = val;
@@ -7,8 +13,6 @@
  */
 
 /**
- * https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
- * 235. Lowest Common Ancestor of a Binary Search Tree
  * @param {TreeNode} root
  * @param {TreeNode} p
  * @param {TreeNode} q

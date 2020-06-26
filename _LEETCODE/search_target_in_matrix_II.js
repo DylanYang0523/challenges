@@ -1,6 +1,10 @@
 /**
- * https://leetcode.com/problems/search-a-2d-matrix-ii/submissions/
- * 240. Search a 2D Matrix II
+ * @lv 🟡
+ * @link https://leetcode.com/problems/search-a-2d-matrix-ii/submissions/
+ * @name 240. Search a 2D Matrix II
+ * @cate #editor_pick
+ */
+/**
  * @param {number[][]} matrix
  * @param {number} target
  * @return {boolean}

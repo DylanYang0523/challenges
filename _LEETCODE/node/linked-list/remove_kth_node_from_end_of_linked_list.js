@@ -1,4 +1,10 @@
 /**
+ * @lv 🟡
+ * @link https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+ * @name 19. Remove Nth Node From End of List
+ * @cate #editor_pick, #node, #linked_list
+ */
+/**
  * Definition for singly-linked list.
  * function ListNode(val, next) {
  *     this.val = (val===undefined ? 0 : val)
@@ -6,8 +12,6 @@
  * }
  */
 /**
- * https://leetcode.com/problems/remove-nth-node-from-end-of-list/
- * 19. Remove Nth Node From End of List
  * @param {ListNode} head
  * @param {number} n
  * @return {ListNode}

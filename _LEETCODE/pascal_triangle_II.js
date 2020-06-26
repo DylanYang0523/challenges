@@ -1,6 +1,10 @@
 /**
- * https://leetcode.com/problems/pascals-triangle-ii/
- * 119. Pascal's Triangle II
+ * @lv 🟢
+ * @link https://leetcode.com/problems/pascals-triangle-ii/
+ * @name 119. Pascal's Triangle II
+ * @cate #classic
+ */
+/**
  * @param {number} rowIndex
  * @return {number[]}
  */

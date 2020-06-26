@@ -1,6 +1,9 @@
 /**
- * https://leetcode.com/problems/partition-equal-subset-sum/
- * 416. Partition Equal Subset Sum
+ * @lv 🟡
+ * @link https://leetcode.com/problems/partition-equal-subset-sum/
+ * @name 416. Partition Equal Subset Sum
+ */
+/**
  * @param {number[]} nums
  * @return {boolean}
  */
