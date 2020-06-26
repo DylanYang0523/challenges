@@ -1,5 +1,9 @@
-// https://leetcode.com/problems/min-stack/submissions/
-// 155. Min Stack
+/**
+ * @lv 🟢
+ * @link https://leetcode.com/problems/min-stack/submissions/
+ * @name 155. Min Stack
+ */
+
 /**
  * initialize your data structure here.
  */

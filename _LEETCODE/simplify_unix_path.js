@@ -1,6 +1,10 @@
 /**
- * https://leetcode.com/problems/simplify-path/submissions/
- * 71. Simplify Path
+ * @lv 🟡
+ * @link https://leetcode.com/problems/simplify-path/submissions/
+ * @name 71. Simplify Path
+ * @cate #editor_pick
+ */
+/**
  * @param {string} path
  * @return {string}
  */

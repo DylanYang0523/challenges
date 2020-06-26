@@ -1,6 +1,10 @@
 /**
- * https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
- * 581. Shortest Unsorted Continuous Subarray
+ * @lv 🟡
+ * @link https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
+ * @name 581. Shortest Unsorted Continuous Subarray
+ * @cate #editor_pick
+ */
+/**
  * @param {number[]} nums
  * @return {number}
  */

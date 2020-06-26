@@ -1,6 +1,10 @@
 /**
- * https://leetcode.com/problems/longest-substring-without-repeating-characters/
- * 3. Longest Substring Without Repeating Characters
+ * @lv 🟡
+ * @link https://leetcode.com/problems/longest-substring-without-repeating-characters/
+ * @name 3. Longest Substring Without Repeating Characters
+ * @cate #editor_pick
+ */
+/**
  * @param {string} s
  * @return {number}
  */

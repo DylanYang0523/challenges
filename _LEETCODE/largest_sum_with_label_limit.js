@@ -1,6 +1,9 @@
 /**
- * https://leetcode.com/problems/largest-values-from-labels/
- * 1090. Largest Values From Labels
+ * @lv 🟢
+ * @link https://leetcode.com/problems/largest-values-from-labels/
+ * @name 1090. Largest Values From Labels
+ */
+/**
  * @param {number[]} values
  * @param {number[]} labels
  * @param {number} num_wanted

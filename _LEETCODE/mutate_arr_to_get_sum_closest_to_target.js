@@ -1,6 +1,10 @@
 /**
- * https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/
- * 1300. Sum of Mutated Array Closest to Target
+ * @lv 🟡
+ * @link https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/
+ * @name 1300. Sum of Mutated Array Closest to Target
+ * @cate #recursion,#editor_pick
+ */
+/**
  * @param {number[]} arr
  * @param {number} target
  * @return {number}

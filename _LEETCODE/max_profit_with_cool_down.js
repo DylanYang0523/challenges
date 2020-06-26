@@ -1,6 +1,10 @@
 /**
- * https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/
- * 309. Best Time to Buy and Sell Stock with Cooldown
+ * @lv 🔴
+ * @link https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/
+ * @name 309. Best Time to Buy and Sell Stock with Cooldown
+ * @cate #states_control, #editor_pick
+ */
+/**
  * @param {number[]} prices
  * @return {number}
  */

@@ -1,6 +1,10 @@
 /**
- * https://leetcode.com/problems/candy/
- * 135. Candy
+ * @lv 🔴
+ * @link https://leetcode.com/problems/candy/
+ * @name 135. Candy
+ * @cate #editor_pick
+ */
+/**
  * @param {number[]} ratings
  * @return {number}
  */

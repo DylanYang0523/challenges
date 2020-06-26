@@ -1,6 +1,10 @@
 /**
- * https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
- * 34. Find First and Last Position of Element in Sorted Array
+ * @lv 🟢
+ * @link https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
+ * @name 34. Find First and Last Position of Element in Sorted Array
+ * @cate #recursion
+ */
+/**
  * @param {number[]} nums
  * @param {number} target
  * @return {number[]}

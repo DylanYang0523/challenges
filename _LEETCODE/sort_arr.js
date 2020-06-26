@@ -1,4 +1,10 @@
 /**
+ * @lv 🟡
+ * @link https://leetcode.com/problems/sort-an-array/
+ * @name 912. Sort an Array
+ * @cate #fundamental, #sort, #editor_pick
+ */
+/**
  * @param {number[]} nums
  * @return {number[]}
  */

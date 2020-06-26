@@ -1,4 +1,10 @@
 /**
+ * @lv 🟢
+ * @link https://leetcode.com/problems/valid-parentheses/
+ * @name 20. Valid Parentheses
+ * @cate #editor_pick
+ */
+/**
  * @param {string} s
  * @return {boolean}
  */
