@@ -1,14 +1,17 @@
 /**
+ * @lv 🟢
+ * @link https://leetcode.com/problems/intersection-of-two-linked-lists/
+ * @name 160. Intersection of Two Linked Lists
+ * @cate #editor_pick
+ */
+/**
  * Definition for singly-linked list.
  * function ListNode(val) {
  *     this.val = val;
  *     this.next = null;
  * }
  */
-
 /**
- * https://leetcode.com/problems/intersection-of-two-linked-lists/
- * 160. Intersection of Two Linked Lists
  * @param {ListNode} headA
  * @param {ListNode} headB
  * @return {ListNode}

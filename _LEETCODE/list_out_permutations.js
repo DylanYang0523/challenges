@@ -1,6 +1,10 @@
 /**
- * https://leetcode.com/problems/permutations/
- * 46. Permutations
+ * @lv 🟡
+ * @link https://leetcode.com/problems/permutations/
+ * @name 46. Permutations
+ * @cate #editor_pick, #fundamental, #recursion
+ */
+/**
  * @param {number[]} nums
  * @return {number[][]}
  */

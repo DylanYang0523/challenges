@@ -28,4 +28,6 @@
 #&nbsp;to_be_sanitized \ 
 #&nbsp;classic \
 #&nbsp;fundamental \
-#&nbsp;state_recovery
+#&nbsp;state_recovery \
+#&nbsp;heap \
+#&nbsp;stream

@@ -1,6 +1,9 @@
 /**
- * https://leetcode.com/problems/third-maximum-number/
- * 414. Third Maximum Number
+ * @lv 🟢
+ * @link https://leetcode.com/problems/third-maximum-number/
+ * @name 414. Third Maximum Number
+ */
+/**
  * @param {number[]} nums
  * @return {number}
  */

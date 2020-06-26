@@ -1,4 +1,8 @@
-// https://www.hackerrank.com/contests/zoho-pr/challenges/spiral-traversal/problem
+/**
+ * @lv 🟡
+ * @link https://www.hackerrank.com/contests/zoho-pr/challenges/spiral-traversal/problem
+ * @name Spiral Traversal
+ */
 /**
  * Given a square matrix(n is odd) , print the elements in spiral order starting from the center till array[0][0]th element.
  * 

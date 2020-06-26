@@ -1,5 +1,9 @@
-// https://leetcode.com/problems/implement-trie-prefix-tree/
-// 208. Implement Trie (Prefix Tree)
+/**
+ * @lv 🟡
+ * @link https://leetcode.com/problems/implement-trie-prefix-tree/
+ * @name 208. Implement Trie (Prefix Tree)
+ * @cate #trie, #construction
+ */
 
 /**
  * Initialize your data structure here.

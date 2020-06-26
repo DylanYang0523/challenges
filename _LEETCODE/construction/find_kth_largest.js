@@ -1,6 +1,10 @@
 /**
- * https://leetcode.com/problems/kth-largest-element-in-a-stream/
- * 703. Kth Largest Element in a Stream
+ * @lv 🟢
+ * @link https://leetcode.com/problems/kth-largest-element-in-a-stream/
+ * @name 703. Kth Largest Element in a Stream
+ * @cate #stream
+ */
+/**
  * @param {number} k
  * @param {number[]} nums
  */

@@ -1,3 +1,8 @@
+/**
+ * @lv 🟢
+ * @link https://www.hackerrank.com/contests/coding-test-1-bits-hyderabad/challenges/spiral-matrix-1
+ * @name Spiral Matrix 1
+ */
 function processData(input) {
     //Enter your code here
     if (!input || input.length < 1) return [];

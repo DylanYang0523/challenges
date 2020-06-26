@@ -1,6 +1,10 @@
 /**
- * https://leetcode.com/problems/subsets-ii/
- * 90. Subsets II
+ * @lv 🟡
+ * @link https://leetcode.com/problems/subsets-ii/
+ * @name 90. Subsets II
+ * @cate #editor_pick, #recursion
+ */
+/**
  * @param {number[]} nums
  * @return {number[][]}
  */

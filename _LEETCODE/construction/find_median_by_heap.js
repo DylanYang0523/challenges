@@ -1,5 +1,10 @@
-// https://leetcode.com/problems/find-median-from-data-stream/
-// 295. Find Median from Data Stream
+/**
+ * @lv 🔴
+ * @link https://leetcode.com/problems/find-median-from-data-stream/
+ * @name 295. Find Median from Data Stream
+ * @cate #construction, #heap, #stream
+ */
+
 class Heap {
     constructor () {
         this.heap = [];

@@ -1,6 +1,10 @@
 /**
- * https://leetcode.com/problems/product-of-array-except-self/
- * 238. Product of Array Except Self
+ * @lv 🟡
+ * @link https://leetcode.com/problems/product-of-array-except-self/
+ * @name 238. Product of Array Except Self
+ * @cate #editor_pick
+ */
+/**
  * @param {number[]} nums
  * @return {number[]}
  */

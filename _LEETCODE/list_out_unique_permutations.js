@@ -1,6 +1,10 @@
 /**
- * https://leetcode.com/problems/permutations-ii/submissions/
- * 47. Permutations II
+ * @lv 🟡
+ * @link https://leetcode.com/problems/permutations-ii/submissions/
+ * @name 47. Permutations II
+ * @cate #recursion, #editor_pick
+ */
+/**
  * @param {number[]} nums
  * @return {number[][]}
  */

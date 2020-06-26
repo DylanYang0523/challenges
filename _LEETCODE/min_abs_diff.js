@@ -1,6 +1,9 @@
 /**
- * https://leetcode.com/problems/minimum-absolute-difference/
- * 1200. Minimum Absolute Difference
+ * @lv 🟢
+ * @link https://leetcode.com/problems/minimum-absolute-difference/
+ * @name 1200. Minimum Absolute Difference
+ */
+/**
  * @param {number[]} arr
  * @return {number[][]}
  */

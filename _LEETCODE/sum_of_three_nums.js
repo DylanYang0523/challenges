@@ -1,6 +1,9 @@
 /**
- * https://leetcode.com/problems/3sum/
- * 15. 3Sum
+ * @lv 🟡
+ * @link https://leetcode.com/problems/3sum/
+ * @name 15. 3Sum
+ */
+/**
  * @param {number[]} nums
  * @return {number[][]}
  */

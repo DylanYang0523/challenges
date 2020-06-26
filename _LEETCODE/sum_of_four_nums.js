@@ -1,6 +1,9 @@
 /**
- * https://leetcode.com/problems/4sum/submissions/
- * 18. 4Sum
+ * @lv 🟡
+ * @link https://leetcode.com/problems/4sum/
+ * @name 18. 4Sum
+ */
+/**
  * @param {number[]} nums
  * @param {number} target
  * @return {number[][]}

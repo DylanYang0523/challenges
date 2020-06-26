@@ -1,6 +1,8 @@
 /**
- * https://leetcode.com/problems/minimum-time-difference/
- * 539. Minimum Time Difference
+ * @link https://leetcode.com/problems/minimum-time-difference/
+ * @name 539. Minimum Time Difference
+ */
+/**
  * @param {string[]} timePoints
  * @return {number}
  */

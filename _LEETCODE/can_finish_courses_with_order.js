@@ -1,6 +1,10 @@
 /**
- * https://leetcode.com/problems/course-schedule-ii/
- * 210. Course Schedule II
+ * @lv 🔴
+ * @link https://leetcode.com/problems/course-schedule-ii/
+ * @name 210. Course Schedule II
+ * @cate #editor_pick, #topological
+ */
+/**
  * @param {number} numCourses
  * @param {number[][]} prerequisites
  * @return {number[]}

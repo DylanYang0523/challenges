@@ -1,6 +1,9 @@
 /**
- * https://leetcode.com/problems/next-permutation/
- * 31. Next Permutation
+ * @lv 🟡
+ * @link https://leetcode.com/problems/next-permutation/
+ * @name 31. Next Permutation
+ */
+/**
  * @param {number[]} nums
  * @return {void} Do not return anything, modify nums in-place instead.
  */

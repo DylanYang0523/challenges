@@ -1,6 +1,10 @@
 /**
- * https://leetcode.com/problems/trapping-rain-water/
- * 42. Trapping Rain Water
+ * @lv 🔴
+ * @link https://leetcode.com/problems/trapping-rain-water/
+ * @name 42. Trapping Rain Water
+ * @cate #recursion, #editor_pick
+ */
+/**
  * @param {number[]} height
  * @return {number}
  */

@@ -1,6 +1,9 @@
 /**
- * https://leetcode.com/problems/maximum-product-of-three-numbers/
- * 628. Maximum Product of Three Numbers
+ * @lv 🟢
+ * @link https://leetcode.com/problems/maximum-product-of-three-numbers/
+ * @name 628. Maximum Product of Three Numbers
+ */
+/**
  * @param {number[]} nums
  * @return {number}
  */

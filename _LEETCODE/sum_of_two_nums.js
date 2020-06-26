@@ -1,4 +1,10 @@
 /**
+ * @lv 🟢
+ * @link https://leetcode.com/problems/two-sum/
+ * @name 1. Two Sum
+ * @cate #classic
+ */
+/**
  * @param {number[]} nums
  * @param {number} target
  * @return {number[]}

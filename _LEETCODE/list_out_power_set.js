@@ -1,6 +1,10 @@
 /**
- * https://leetcode.com/problems/subsets/
- * 78. Subsets
+ * @lv 🟡
+ * @link https://leetcode.com/problems/subsets/
+ * @name 78. Subsets
+ * @cate #recursion
+ */
+/**
  * @param {number[]} nums
  * @return {number[][]}
  */
