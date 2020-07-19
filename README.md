@@ -30,4 +30,5 @@
 #&nbsp;fundamental \
 #&nbsp;state_recovery \
 #&nbsp;heap \
-#&nbsp;stream
+#&nbsp;stream \
+#&nbsp;hashmap
